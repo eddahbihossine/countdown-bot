@@ -23,7 +23,6 @@ for (const folder of commandFolders) {
     }
 }
 
-
 // ---------------------------------
 // Event-Handler
 // ---------------------------------
